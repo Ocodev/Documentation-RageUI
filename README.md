@@ -1,6 +1,6 @@
 # Documentation-RageUI
 discord.gg/ocodev
-# Documentation par Oco'Dev
+# Documentation RageUI open Source par Oco'Dev
 https://ocodev-lib.gitbook.io/ocodev-lib
 # Discord Oco'Dev
 https://discord.gg/ocodev
